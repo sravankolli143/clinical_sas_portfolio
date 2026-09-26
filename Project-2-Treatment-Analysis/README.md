@@ -25,4 +25,4 @@ The analysis generates frequency tables summarizing subjects by treatment group 
 
 ## Output Preview
 
-![Treatment Analysis Output](Project2_Treatment_Analysis_Output.png)
+![Treatment Analysis Output](clinical_trial_analysis.png.pdf)
