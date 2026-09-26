@@ -22,3 +22,7 @@ To analyze clinical study treatment groups and summarize subject status using SA
 
 ## Output
 The analysis generates frequency tables summarizing subjects by treatment group and study status.
+
+## Output Preview
+
+![Treatment Analysis Output](Project2_Treatment_Analysis_Output.png)
