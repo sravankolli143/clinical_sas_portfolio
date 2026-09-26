@@ -24,4 +24,4 @@ To analyze demographic characteristics of clinical study subjects using SAS.
 The analysis generates frequency tables showing the distribution of subjects across demographic and treatment-related categories.
 
 ## Output Preview
-![Demographics Analysis Output](Project1_Demographics_Output.png)
+![Demographics Analysis Output](project_1_demographics.png.pdf)
